@@ -1,5 +1,6 @@
 ## 💫 About Me:
-Hi! I am Alice 💕 I am a Plant Biology PhD Candidate at UC Davis 🌱 studying how introns shape chromatin and genome evolution. I build computational tools for large-scale genomics and care a lot about making science more inclusive 🧬
+Hi! I am Alice 💕 I am a Plant Biology PhD Candidate at UC Davis 🌱 studying how introns shape chromatin and genome evolution. \
+I build computational workflows for large-scale genomics and care a lot about making science more inclusive 🧬
 
 Learn more about my projects on my [website](https://alicepierce.github.io/) 🤖
 
